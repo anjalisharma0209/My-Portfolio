@@ -1,5 +1,5 @@
 # My-Portfolio
- 👋 Welcome to My Portfolio!
+ 👋 Welcome to My Portfolio.
 I'm a passionate Web Developer with a strong background in Python, Flask, and front-end technologies. Here’s a quick look at what you’ll find:  
 
 ✨ Home – A quick introduction about me and my work.  
